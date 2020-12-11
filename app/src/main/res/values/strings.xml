@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AppTimer</string>
+    <string name="Start">Lets Get Started</string>
+    <string name="Permission">Give Permissions</string>
+    <string name="UPermission">Usage Permissions Required</string>
+    <string name="DPermission">Draw over other Apps</string>
+    <string name="Goal">Set Usage Goal</string>
+    <string name="GoalContent">Tell us how much time you want to spend on your phone</string>
+    <string name="Content1">This App will Help you to Control your time of usage on Mobile</string>
+    <string name="cancel">Cancel</string>
+    <string name="daily_usage_time_limit">Daily usage time limit</string>
+    <string name="daily_phone_unlock_limit">Daily phone unlock limit</string>
+    <string name="done">Done</string>
+    <string name="apptimer">AppTimer</string>
+    <string name="logo">Logo</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="select_apps_to_monitor">Select apps to monitor</string>
+    <string name="unlock_count">Unlock Count</string>
+    <string name="most_used_app">Most Used App</string>
+    <string name="most_visited_app">Most Visited App</string>
+    <string name="dashboard">DASHBOARD</string>
+    <string name="usage_time">Usage Time</string>
+    <string name="reports">Reports</string>
+    <string name="app">App</string>
+    <string name="setting">Setting</string>
+    <string name="notification">Notification</string>
+</resources>

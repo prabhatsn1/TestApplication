@@ -24,6 +24,9 @@ class MainActivity : AppCompatActivity() {
         var tag:String
         tag = "Debug"
         val listView = findViewById<ListView>(R.id.listView)
+        // You need to enable Nested Scrolling, otherwise list will not scroll
+        listView.isNestedScrollingEnabled = true
+
         val rBtn = findViewById<Button>(R.id.button)
 
 
@@ -33,8 +36,6 @@ class MainActivity : AppCompatActivity() {
         listView.adapter=arrayAdapter
         Log.v(tag,"Scanned")
         Log.v(tag, mlist.toString())
-
-
 
     }
 

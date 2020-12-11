@@ -28,9 +28,9 @@ class MainActivity : AppCompatActivity() {
 
 
         scanningInstalled()
-        /*var arrayAdapter : MyAdapter? = null
+        var arrayAdapter : MyAdapter? = null
         arrayAdapter = MyAdapter(this,mlist)
-        listView.adapter=arrayAdapter*/
+        listView.adapter=arrayAdapter
         Log.v(tag,"Scanned")
         Log.v(tag, mlist.toString())
 
